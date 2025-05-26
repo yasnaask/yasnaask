@@ -1,4 +1,10 @@
-<p align="center">Yasna here !<br>Studying Computer Engineering and diving into the world of cybersecurity.</p>
+<div align="center">
+  <img height="200" src="https://uplod.ir/hpsvrua52f3m/download_(3).gif.htm"  />
+</div>
+
+###
+
+<h3 align="center">Yasna here !<br>Studying Computer Engineering and diving into the world of cybersecurity.</h3>
 
 ###
 
@@ -21,14 +27,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://photo20.ir/images/1ei8vdypfxspg53pl3s6.gif"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasnaask&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yasnaask&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=yasnaask&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=16&date_format=%5BY.%5Dn.j&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=yasnaask&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
