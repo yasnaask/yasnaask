@@ -33,6 +33,9 @@
 </div>
 
 ###
+## 🟡 Pac-Man Contribution Graph
+
+<img src="https://yasnaask.github.io/yasnaask/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
 
 <br clear="both">
 
