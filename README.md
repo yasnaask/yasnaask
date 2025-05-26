@@ -33,7 +33,9 @@
 </div>
 
 ###
+<img align="left" height="100" src="https://s6.uupload.ir/files/cat_mqq7.gif"  />
 
+###
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://t.me/yasnaask" target="_blank">
