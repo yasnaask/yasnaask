@@ -33,11 +33,7 @@
 </div>
 
 ###
-## 🟡 Pac-Man Contribution Graph
 
-<img src="https://yasnaask.github.io/yasnaask/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" />
-
-<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yasnaask/yasnaask/output/pacman-contribution-graph-dark.svg">
