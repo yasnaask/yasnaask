@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://i.imgur.com/lRkCVHm.gif" alt="yasna intro gif" width="400" />
+
+</p>
+
 <h2 align="center">Yasna here !</h2>
 
 ###
